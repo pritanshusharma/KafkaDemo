@@ -8,10 +8,10 @@ https://mvnrepository.com/artifact/org.slf4j/slf4j-simple/1.7.25
 
 2) add following properties to pom.xml for complie maven under java 8
 
-    <properties>
+ /* <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-    </properties>
+    </properties> */
 
 
 
